@@ -1,0 +1,9 @@
+dockerfile
+FROM #from which image we should take
+MAINTAINER #dockerfile maintainer name
+RUN #to rum the files
+CMD #to run the commands
+COPY #to copy files
+ENTRYPOINT
+EVN
+
